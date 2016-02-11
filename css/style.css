@@ -9,6 +9,7 @@ body {
 	padding: 0;
 }
 
+
 .wrapper {
 	font-size: 1em;
 	width: 90%;
@@ -18,3 +19,11 @@ body {
 	text-align: center;
 }
 
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	text-decoration: underline;
+}

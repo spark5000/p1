@@ -13,6 +13,21 @@
 		<div class="wrapper">
 			<h2>Samuel Park</h2>
 
+			<img src="img/img2.jpg" alt="Sam">
+
+			<h3><a href="">Project 2</a></h3>
+			<h4><a href="">Project 2 Github</a></h4>
+			<p><br></p>
+
+			<h3><a href="">Project 3</a></h3>
+			<h4><a href="">Project 3 Github</a></h4>
+			<p><br></p>
+
+			<h3><a href="">Project 4</a></h3>
+			<h4><a href="">Project 4 Github</a></h4>
+			<p><br></p>
+
+
 		</div>
 
 	</body>
